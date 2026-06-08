@@ -18,3 +18,4 @@
 最佳新人	Chance The Rapper
 
 Baby(feat. Ludacris)	2010
+Sorry	2015
