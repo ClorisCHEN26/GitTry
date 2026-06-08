@@ -13,3 +13,4 @@
 2017	Shape of You	Ed Sheeran
 
 年度制作	Adele	"Hello"
+年度专辑	Adele	*25*
