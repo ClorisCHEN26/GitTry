@@ -12,3 +12,4 @@
 2018	God's Plan	Drake
 2017	Shape of You	Ed Sheeran
 2016	Love Yourself	Justin Bieber
+2015	Uptown Funk!	Mark Ronson featuring Bruno Mars
