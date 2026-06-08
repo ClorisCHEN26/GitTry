@@ -11,3 +11,5 @@
 2019	Old Town Road	Lil Nas X featuring Billy Ray Cyrus
 2018	God's Plan	Drake
 2017	Shape of You	Ed Sheeran
+
+年度制作	Adele	"Hello"
