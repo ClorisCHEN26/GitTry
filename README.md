@@ -14,3 +14,4 @@
 
 年度制作	Adele	"Hello"
 年度专辑	Adele	*25*
+年度歌曲	Adele	"Hello" (Adele Adkins & Greg Kurstin)
