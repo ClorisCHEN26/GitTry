@@ -5,3 +5,4 @@
 2025	Die With A Smile	Lady Gaga & Bruno Mars
 2024	Lose Control	Teddy Swims
 2023	Last Night	Morgan Wallen
+2022	Heat Waves	Glass Animals
