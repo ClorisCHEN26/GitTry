@@ -19,3 +19,4 @@
 
 Baby(feat. Ludacris)	2010
 Sorry	2015
+Love Yourself	2015
