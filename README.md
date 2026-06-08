@@ -6,3 +6,4 @@
 2024	Lose Control	Teddy Swims
 2023	Last Night	Morgan Wallen
 2022	Heat Waves	Glass Animals
+2021	Levitating	Dua Lipa
