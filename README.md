@@ -8,3 +8,4 @@
 2022	Heat Waves	Glass Animals
 2021	Levitating	Dua Lipa
 2020	Blinding Lights	The Weeknd
+2019	Old Town Road	Lil Nas X featuring Billy Ray Cyrus
